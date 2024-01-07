@@ -1,3 +1,13 @@
+# A simple TO-DO app built using Next.js and Tailwind css
+
+## Features:
+- Add task
+- Set task as completed
+- Delete task
+- Show task completion percentage
+
+## Next.js Documentation
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
