@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "text": "Finish homework",
+        "status": "incomplete"
+    },
+    {
+        "id": 2,
+        "text": "Buy groceries",
+        "status": "incomplete"
+    },
+    {
+        "id": 3,
+        "text": "Go for a run",
+        "status": "incomplete"
+    }
+]
